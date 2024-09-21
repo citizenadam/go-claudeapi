@@ -1,4 +1,4 @@
-package main
+package anthropic
 
 import (
 	"encoding/json"

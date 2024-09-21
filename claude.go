@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/citizenadam/go-synochat"
-	"github.com/citizenadam/anthropic"
+	"github.com/citizenadam/go-claudapi"
 )
 
 type WebhookPayload struct {

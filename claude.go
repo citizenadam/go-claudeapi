@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/citizenadam/go-synochat"
-	"github.com/yourusername/anthropic" // Replace with the actual import path
+	"github.com/citizenadam/anthropic"
 )
 
 type WebhookPayload struct {
